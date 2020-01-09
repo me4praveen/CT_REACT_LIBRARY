@@ -1,7 +1,7 @@
 {
   "name": "ct_ui_library",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "peerDependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
