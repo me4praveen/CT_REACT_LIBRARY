@@ -13,7 +13,7 @@
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "create-react-library": "^2.6.7",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react-scripts": "3.3.0"
   },
   "scripts": {
